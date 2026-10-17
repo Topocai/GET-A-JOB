@@ -4,5 +4,6 @@
     "min": 2000,
     "max": 12000
   },
+  "clock": "minecraft:overworld",
   "period": 24000
 }
