@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "A datapack that improves villager professions",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+  }
+}
