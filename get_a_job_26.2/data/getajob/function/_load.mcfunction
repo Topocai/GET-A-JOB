@@ -1,6 +1,6 @@
 #_load
 
-tellraw @a ["",{"text":"["},{"text":"Get A Job! v0.4","color":"yellow"},{"text":"]"},{"text":" Datapack Loaded Successfully"}]
+tellraw @a ["",{"text":"["},{"text":"Get A Job! version actualizada por la gorda topacai v0.1, maybe pronto traducciones, optimizaciones o incluso nuevas features!!","color":"yellow"},{"text":"]"},{"text":" todo funcionando!!!!!!!!!"}]
 
 scoreboard objectives add getajob_config dummy
 scoreboard objectives add getajob_const dummy
