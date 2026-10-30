@@ -1,7 +1,7 @@
 # GET A JOB ! Minecraft Datapack
 Updated version of "get a job"  datapack for Minecraft.
 
-This datapack provides **custom behaviour** for **Villagers on Minecraft** allowing them to perform actions such as **killing animals, fishing, destroy blocks**, etc
+This datapack provides **custom behaviour** *(not trades)* for **Villagers on Minecraft** allowing them to perform actions such as **killing animals, fishing, destroy blocks**, etc
 
 The behaviour and actions depends on which **job they have** (librarians, fishers, etc)
 
